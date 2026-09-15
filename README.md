@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/187229530?v=4" width="120" alt="EvoRuleLab logo" />
+  <img src="https://raw.githubusercontent.com/EvoRuleLab/EvoRuleLab/main/evorule-banner.svg" width="100%" alt="EvoRule — deterministic-first reactive rule execution engine" />
 </p>
 
 <h1 align="center">EvoRuleLab</h1>
@@ -36,25 +36,14 @@ In safety-critical and regulated environments, *"I think it's fine"* is not enou
 
 ## 🌐 Links
 
-- 🚀 Live demo: [evorule-console-cloud](https://github.com/evorule/evorule-console-cloud)
-- 🇨🇳 Gitee(主站): https://gitee.com/evorule
-- 📦 crates.io: https://crates.io/users/EvoRuleLab
-- 📝 掘金(Juejin): [首发文章](<发布后回填文章URL>)
+- 🌐 Official website: <https://evorule.github.io>
+- 🚀 WASM live demo — run the real engine in your browser: <https://evorule.github.io/wasm-demo/>
+- 🖥️ Console Cloud demo: [evorule-console-cloud](https://github.com/evorule/evorule-console-cloud)
+- 🐙 GitHub organization: <https://github.com/evorule>
+- 🇨🇳 Gitee (主站): <https://gitee.com/evorule>
+- 📦 crates.io: <https://crates.io/users/EvoRuleLab>
+- 📝 掘金 (Juejin): [首发文章](<发布后回填文章URL>)
 
 ## 💬 中文
 
 EvoRule(元则)——确定性为第一性的规则治理引擎。让每一次决策可证明、可回放、可审计。面向金融、医疗、等保 2.0、EU AI Act 等强合规场景。规则即知识,执行即可证。
-<!--
-**EvoRuleLab/evorulelab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

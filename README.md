@@ -43,8 +43,7 @@ In safety-critical and regulated environments, *"I think it's fine"* is not enou
 
 ## 💬 中文
 
-EvoRule(元则)——确定性为第一性的规则治理引擎。让每一次决策可证明、可回放、可审计。面向金融、医疗、等保 2.0、EU AI Act 等强合规场景。规则即知识,执行即可证。## Hi there 👋
-
+EvoRule(元则)——确定性为第一性的规则治理引擎。让每一次决策可证明、可回放、可审计。面向金融、医疗、等保 2.0、EU AI Act 等强合规场景。规则即知识,执行即可证。
 <!--
 **EvoRuleLab/evorulelab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
